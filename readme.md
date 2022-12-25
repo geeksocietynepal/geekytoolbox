@@ -13,5 +13,6 @@
   
 Tiny open source tools are often highly modular and can be easily incorporated into larger projects or used as standalone solutions. They can be a great resource for developers looking to quickly solve specific problems or add functionality to their projects without the need for larger, more complex software libraries.
 
-You can add your awesome tools here:
+## Contribution Guidelines:
+
 
