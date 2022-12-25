@@ -4,7 +4,7 @@ Want to contribute to geekytoolbox? That's great! Here are a couple of guideline
 
 #### Overview
 
-- [Contributing to 24 Pull Requests](#contributing-to-24-pull-requests)
+- [Contributing to geekytoolbox](#geekytoolbox)
       - [Overview](#overview)
   - [Contribution workflow](#contribution-workflow)
   - [Setup instructions](#setup-instructions)

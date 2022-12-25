@@ -59,7 +59,7 @@ can be different for your device
 
 
 ## Contribution Guidelines:
-We are always looking for people to contribute! To find out how to help out, have a look at our [Contributing Guide](contributing.md)
+We are always looking for people to contribute! To find out how to help out, have a look at our [Contributing Guide](Contributing.md)
 
 ### Code of Conduct
 
