@@ -24,7 +24,7 @@
 
 The tools source is hosted at [GitHub](https://github.com/geeksocietynepal/geekytoolbox/tools).
 Tools are:
-1. [Bulk IPO applier](/tools/bulkipoapplier)
+1. [Bulk IPO applier](/tools/ipo bulk applier)
 
 You can report issues/feature requests on [GitHub Issues](https://github.com/nepgeeksociety/geekytoolbox/issues) on any tools. You can use [GitHub Discussions](https://github.com/nepgeeksociety/geekytoolbox/discussions) to ask questions, follow announcements, and to propose ideas for the project. 
  
