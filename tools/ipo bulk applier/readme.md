@@ -19,10 +19,10 @@
 
 ## Development setup 🛠
 
-Backend-Django :- read backend [readme.md](/backend/readme.md) file
+Backend-Django :- read backend [readme.md](https://github.com/geeksocietynepal/geekytoolbox/tree/main/tools/ipo%20bulk%20applier/backend#readme) file
 <br>
 <br>
-Frontend-React :- read frontend [readme.md](frontend/README.md)
+Frontend-React :- read frontend [readme.md](https://github.com/geeksocietynepal/geekytoolbox/tree/main/tools/ipo%20bulk%20applier/frontend#readme)
 
 ## Support & Contrubute
 
